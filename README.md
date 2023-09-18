@@ -1,0 +1,1 @@
+# Test progect for Kata academy
